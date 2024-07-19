@@ -149,5 +149,433 @@
   {
     "website": "www.medi1tv.com",
     "usingLaraPush": "false"
+  },
+  {
+    "website": "sabahagadir.ma",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "snrtnews.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "anwarpress.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.akhirsaa.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "le12.ma",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.achewa9e3.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "bladna24.ma",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "anbaetv.ma",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.alarabiya.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "ksa-wats.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.sayidaty.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.cibeg.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.bna.dz",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "th.elbadil.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "anb.com.sa",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "now.misr-post.com",
+    "usingLaraPush": "true"
+  },
+  {
+    "website": "www.alsalamalgeria.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "webservices.dz",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "medcegypt.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.mpt.gov.dz",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "newso.elsob7.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.banquemisr.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.cnepbanque.dz",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.echoroukonline.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "nabd.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.bankaljazira.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.sabqpress.dz",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "bawabatic.dz",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.merchantgenius.io",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.elkhadra.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "jarida.onl",
+    "usingLaraPush": "true"
+  },
+  {
+    "website": "mj.bald-news.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "almashhad.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "dakahliya.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "aj.media24.ps",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "mg.akher.news",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "a.bayt-almaelumat.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "news.almojaaz.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "mesrena.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "artic.nl7za.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "africanews.dz",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.alwast.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "real.alsaudinews.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "stc.khabars7.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "news.faharas.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "ai.a5bar24h.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "news.khalejnewsgate.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.thaqfny.com",
+    "usingLaraPush": "true"
+  },
+  {
+    "website": "www.ennaharonline.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.alwakeelnews.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "ar.ae.fkjewellers.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.pressnew.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "daqaeq.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "raqmi.tv",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.enabbaladi.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "baghdad-times.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.alhadtha.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "thesunegy.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "ar.salvemusic.com.ua",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "arabic.arabianbusiness.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.watanserb.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.ubuy.com.bh",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.nativedsd.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.classicfm.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "now.alyoumalkhaliji.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "arabic.euronews.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "mahlerfest.org",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "stabi-hb.de",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.francemm.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.mc-doualiya.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "m.sa24.co",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.aldefaaalarabi.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "kifache.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "q8eg.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "arsheff.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.supermama.me",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.atyabtabkha.co",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.sarayanews.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.ammonnews.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "kitchen.sayidaty.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.hck.ma",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "alfasih.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.ayam.news",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "mawdoo3.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.arab48.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "trend.m7et.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "roayana.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "mhtwyat.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "magltk.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.mah6at.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "altibbi.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.animals-wd.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "eklilalmarfh.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "mo.kataluj.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "en.rattibha.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "article.albawaba.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "trends.khbrny.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "alwatannews.net",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "madinahaward.org.sa",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "datasaudi.mep.gov.sa",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.haj.gov.sa",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.mercer.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "naqi.sa",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "ar.tripadvisor.com",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "madinahbus.mda.gov.sa",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "www.almadina.com.sa",
+    "usingLaraPush": "false"
+  },
+  {
+    "website": "services.almadinah.gov.sa",
+    "usingLaraPush": "false"
   }
 ]
